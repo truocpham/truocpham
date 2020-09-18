@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Truoc 👋
+
+I'm a web developer and I work in software development. I'm an Open Source fan
 
 <!--
-**truocpham/truocpham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
