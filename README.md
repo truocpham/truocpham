@@ -2,6 +2,8 @@
 
 I'm a web developer and I work in software development. Open source fan! 🤟
 
+[![Email](https://img.shields.io/badge/email-khactruoc09dce@gmail.com-blue)](mailto:khactruoc09dce@gmail.com) [![Twitter](https://img.shields.io/twitter/follow/TruocPK.svg?style=social&label=@TruocPK)](https://twitter.com/TruocPK)
+
 <!--
 Here are some ideas to get you started:
 
