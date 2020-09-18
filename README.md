@@ -1,6 +1,6 @@
 ### Hi there, I'm Truoc 👋
 
-I'm a web developer and I work in software development. I'm an Open Source fan 🤟
+I'm a web developer and I work in software development. Open source fan! 🤟
 
 <!--
 Here are some ideas to get you started:
